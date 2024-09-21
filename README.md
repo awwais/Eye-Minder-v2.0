@@ -24,6 +24,16 @@ This simple habit can significantly reduce eye strain and improve your overall w
 1. **Reduced eye strain**: Following the 20-20-20 rule can decrease symptoms of computer vision syndrome by up to 32%[^2]
 2. **Improved focus**: Regular breaks can boost productivity by up to 13%[^3]
 3. **Better sleep**: Reducing blue light exposure in the evening can improve sleep quality by 58%[^4]
+   
+## How to Install and Use Eye-Minder
+1. Download the application from the following link:  
+   [Download Eye-Minder v2.0](https://github.com/awwais/Eye-Minder-v2.0/releases/download/EyeMinder-v2.0/EyeMinder.exe)
+   
+2. Install the application by running the downloaded `.exe` file.
+
+3. Once installed, launch Eye-Minder. An icon will appear in your system tray.
+
+4. Click on the tray icon for all available information and to manage your settings.
 
 ## 🚀 Getting Started
 
